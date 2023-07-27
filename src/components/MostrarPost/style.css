@@ -1,0 +1,27 @@
+.checkDefault {
+    border-radius: 50%;
+    padding: 15px;
+    color: white;
+}
+.hover:hover {
+    color: red;
+    background-color: rgb(255, 3, 3, 0.26);
+}
+.checkActive {
+    border-radius: 50%;
+    padding: 15px;
+    color: red;
+}
+.hover2:hover {
+    color: red;
+    background-color: rgba(255, 3, 3, 0.171);
+}
+.hoverDelete {
+    border-radius: 50%;
+    padding: 15px;
+    color: white;
+}
+.hoverDelete:hover {
+    color: rgb(18, 255, 18);
+    background-color: rgba(27, 255, 6, 0.096);
+}

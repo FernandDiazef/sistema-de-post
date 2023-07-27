@@ -1,0 +1,5 @@
+.ResizeTextarea {
+    text-align: center;
+    resize: none;
+    border: 3px solid black;
+}
